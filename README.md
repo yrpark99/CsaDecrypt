@@ -1,6 +1,6 @@
 # CsaDecrypt
 
-Using [libdvbcsa](https://github.com/glenvt18/libdvbcsa/blob/master/INSTALL), this Windows console tool decrypt input DVB CSAv2 transport stream file.
+Using [libdvbcsa](https://github.com/glenvt18/libdvbcsa/), this Windows console tool decrypt input DVB CSAv2 transport stream file.
 
 ## CW file example
 ```
